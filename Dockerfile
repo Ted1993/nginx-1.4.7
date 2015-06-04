@@ -1,4 +1,4 @@
-FROM  registry.wpython.com:443/nginx-1.4.7
+FROM  registry.wpython.com:443/nginx:1.4.7
 
 MAINTAINER xuqiangqiang "739827282@qq.com"
 
