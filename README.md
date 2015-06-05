@@ -1,5 +1,5 @@
-# 安装
+# Installation
 docker build -t  <name>/nginx:1.4.7 .
 
-# 运行
+# Usage
 docker run -d -P <name>/nginx:1.4.7
